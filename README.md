@@ -1,1 +1,2 @@
-# swiftui_sendbiduikit
+# swiftui_sendbirduikit
+- wrapping viewcontroller with UIViewControllerRepresentable
